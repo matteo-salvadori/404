@@ -1,0 +1,21 @@
+.Space{
+    position: absolute;
+    text-align: center;
+    color: white;
+  }
+.centered{
+   text-align: center;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-style: italic;
+   font-style: oblique;
+   font-family: fantasy;
+   color: snow;
+}
+.menu{
+    position: absolute;
+    text-align: left;
+    color: white;
+}
